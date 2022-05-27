@@ -1,0 +1,11 @@
+C:\Users\kimbu\source\repos\serial\bin\Debug\serial.exe.config
+C:\Users\kimbu\source\repos\serial\bin\Debug\serial.exe
+C:\Users\kimbu\source\repos\serial\bin\Debug\serial.pdb
+C:\Users\kimbu\source\repos\serial\obj\Debug\serial.csproj.AssemblyReference.cache
+C:\Users\kimbu\source\repos\serial\obj\Debug\serial.csproj.SuggestedBindingRedirects.cache
+C:\Users\kimbu\source\repos\serial\obj\Debug\serial.Properties.Resources.resources
+C:\Users\kimbu\source\repos\serial\obj\Debug\serial.csproj.GenerateResource.cache
+C:\Users\kimbu\source\repos\serial\obj\Debug\serial.csproj.CoreCompileInputs.cache
+C:\Users\kimbu\source\repos\serial\obj\Debug\serial.exe
+C:\Users\kimbu\source\repos\serial\obj\Debug\serial.pdb
+C:\Users\kimbu\source\repos\serial\obj\Debug\serial.ID_FORM1.resources
